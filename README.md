@@ -1,3 +1,12 @@
+# install on windows (added icons)
+
+```sh
+mkdir tmp && cd tmp && git clone https://github.com/somq/pkief.material-icon-theme-3.6.0-enhanced.git && cd pkief.material-icon-theme-3.6.0-enhanced\icons\ && cp * %USERPROFILE%\.vscode\extensions\pkief.material-icon-theme-3.6.0\icons\
+```
+Added icons
+- alarm.svg (*events.ts)
+- library-books.svg (*.models.ts)
+
 # Material Icon Theme
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/pkief.material-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
